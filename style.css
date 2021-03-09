@@ -1,0 +1,10 @@
+#s1{color: red;font-size: 50px;}
+#d1{background-color: red;margin-left: 20px;padding:40px;}
+#d1{height: 1220px;width: 1300px;}
+.harry.jpg{height: 300;width: 600;object-fit: contain;}
+#m{font-size: 50px;font-weight: bold;}
+#d2{background-color: blue;padding: 70px;margin: 30px;width: 220px;height: auto;}
+.snape.jpg{width: 100px;height: auto;object-fit: contain;}
+
+#d3{background-color: yellow;width: 250px;height: 400px;border: black;}
+.dobby.jpg{width:100px;height: auto;padding: 100px;object-fit: contain;}
